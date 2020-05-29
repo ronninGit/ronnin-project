@@ -1,0 +1,21 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "ronnin front",
+  "author": "aldemar",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vue-material": "latest"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
+  }
+}
